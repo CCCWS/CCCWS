@@ -11,10 +11,18 @@
 
 <img src="https://img.shields.io/badge/Mongo DB-999999?style=for-the-badge&logo=MongoDB&logoColor=47A248"/> <img src="https://img.shields.io/badge/Amazon S3-999999?style=for-the-badge&logo=Amazon S3&logoColor=569A31"/>
 
-<img src="https://img.shields.io/badge/Amazon EC2-999999?style=for-the-badge&logo=Amazon EC2&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Firebase-999999?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/GitHub Pages-999999?style=for-the-badge&logo=GitHub Pages&logoColor=222222"/> </div>
+<img src="https://img.shields.io/badge/Amazon EC2-999999?style=for-the-badge&logo=Amazon EC2&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Firebase-999999?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/GitHub Pages-999999?style=for-the-badge&logo=GitHub Pages&logoColor=222222"/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CCCWS&layout=compact&theme=darcula)
+ 
+  </div>
 
 <!--
 **CCCWS/CCCWS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 
 Here are some ideas to get you started:
