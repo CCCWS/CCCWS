@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Node.js-999999?style=for-the-badge&logo=Node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-999999?style=for-the-badge&logo=Express&logoColor=000000"/> <img src="https://img.shields.io/badge/Axios-999999?style=for-the-badge&logo=Axios&logoColor=5A29E4"/>
 
-<img src="https://img.shields.io/badge/MongoDB-999999?style=for-the-badge&logo=MongoDB&logoColor=47A248"/> <img src="https://img.shields.io/badge/Amazon S3-999999?style=for-the-badge&logo=Amazon S3&logoColor=569A31"/>
+<img src="https://img.shields.io/badge/Mongo DB-999999?style=for-the-badge&logo=MongoDB&logoColor=47A248"/> <img src="https://img.shields.io/badge/Amazon S3-999999?style=for-the-badge&logo=Amazon S3&logoColor=569A31"/>
 
 <img src="https://img.shields.io/badge/Amazon EC2-999999?style=for-the-badge&logo=Amazon EC2&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Firebase-999999?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/GitHub Pages-999999?style=for-the-badge&logo=GitHub Pages&logoColor=222222"/>
 
